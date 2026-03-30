@@ -23,7 +23,7 @@ namespace SalarioFuncionario
             Worker worker = new Worker(name, level, baseSalary, department);
             int qtd = int.Parse(Console.ReadLine());
 
-            for(int i = 0; i < qtd; i++)
+            for(int i = 1; i <= qtd; i++)
             {
                 Console.WriteLine("Entre com os dados do contrato #" + i);
                 Console.Write("Data (DD/MM/YYYY): ");
