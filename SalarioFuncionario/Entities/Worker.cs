@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using SalarioFuncionario.Entities.Enums;
 
 namespace SalarioFuncionario.Entities
@@ -11,7 +12,7 @@ namespace SalarioFuncionario.Entities
         public double BaseSalary { get; set; }
 
         public List<HourContract> Contracts { get; set; } = new List<HourContract>();
-        public Department department { get; set; }
+        public Department Department { get; set; }
 
         public Worker()
         {}
@@ -21,7 +22,7 @@ namespace SalarioFuncionario.Entities
             Name = name;
             Level = level;
             BaseSalary = baseSalary;
-            department = department;
+            Department = department;
         }
 
         public void AddContract(HourContract contract)
@@ -48,6 +49,12 @@ namespace SalarioFuncionario.Entities
 
             return sum;
         }
-
+        public string returnDates(string monthAndYear)
+        {
+            int month = int.Parse(monthAndYear.Substring(0, 2));
+            int year = int.Parse(monthAndYear.Substring(3));
+            return "Nome: " + Name + "\nDepartamento: " + Department.Name + 
+                "\nSalário para " + monthAndYear + ": " + Income(year, month).ToString("F2", CultureInfo.InvariantCulture);
+        }
     }
 }

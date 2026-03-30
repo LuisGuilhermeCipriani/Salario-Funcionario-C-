@@ -1,0 +1,15 @@
+D:\Documentos\Programação\C#\Seção 8\ExercicioResolvido1\SalarioFuncionario\SalarioFuncionario\bin\Debug\net10.0\SalarioFuncionario.exe
+D:\Documentos\Programação\C#\Seção 8\ExercicioResolvido1\SalarioFuncionario\SalarioFuncionario\bin\Debug\net10.0\SalarioFuncionario.deps.json
+D:\Documentos\Programação\C#\Seção 8\ExercicioResolvido1\SalarioFuncionario\SalarioFuncionario\bin\Debug\net10.0\SalarioFuncionario.runtimeconfig.json
+D:\Documentos\Programação\C#\Seção 8\ExercicioResolvido1\SalarioFuncionario\SalarioFuncionario\bin\Debug\net10.0\SalarioFuncionario.dll
+D:\Documentos\Programação\C#\Seção 8\ExercicioResolvido1\SalarioFuncionario\SalarioFuncionario\bin\Debug\net10.0\SalarioFuncionario.pdb
+D:\Documentos\Programação\C#\Seção 8\ExercicioResolvido1\SalarioFuncionario\SalarioFuncionario\obj\Debug\net10.0\SalarioFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Programação\C#\Seção 8\ExercicioResolvido1\SalarioFuncionario\SalarioFuncionario\obj\Debug\net10.0\SalarioFuncionario.AssemblyInfoInputs.cache
+D:\Documentos\Programação\C#\Seção 8\ExercicioResolvido1\SalarioFuncionario\SalarioFuncionario\obj\Debug\net10.0\SalarioFuncionario.AssemblyInfo.cs
+D:\Documentos\Programação\C#\Seção 8\ExercicioResolvido1\SalarioFuncionario\SalarioFuncionario\obj\Debug\net10.0\SalarioFuncionario.csproj.CoreCompileInputs.cache
+D:\Documentos\Programação\C#\Seção 8\ExercicioResolvido1\SalarioFuncionario\SalarioFuncionario\obj\Debug\net10.0\SalarioFuncionario.sourcelink.json
+D:\Documentos\Programação\C#\Seção 8\ExercicioResolvido1\SalarioFuncionario\SalarioFuncionario\obj\Debug\net10.0\SalarioFuncionario.dll
+D:\Documentos\Programação\C#\Seção 8\ExercicioResolvido1\SalarioFuncionario\SalarioFuncionario\obj\Debug\net10.0\refint\SalarioFuncionario.dll
+D:\Documentos\Programação\C#\Seção 8\ExercicioResolvido1\SalarioFuncionario\SalarioFuncionario\obj\Debug\net10.0\SalarioFuncionario.pdb
+D:\Documentos\Programação\C#\Seção 8\ExercicioResolvido1\SalarioFuncionario\SalarioFuncionario\obj\Debug\net10.0\SalarioFuncionario.genruntimeconfig.cache
+D:\Documentos\Programação\C#\Seção 8\ExercicioResolvido1\SalarioFuncionario\SalarioFuncionario\obj\Debug\net10.0\ref\SalarioFuncionario.dll
