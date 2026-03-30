@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using SalarioFuncionario.Entities.WorkerLevel;
-using SalarioFuncionario.Entities.HourContract;
-using SalarioFuncionario.Entities.Department;
 
 namespace SalarioFuncionario.Entities
 {
@@ -13,7 +10,7 @@ namespace SalarioFuncionario.Entities
         public double BaseSalary { get; set; }
 
         public List<HourContract> Contracts { get; set; } = new List<HourContract>();
-        public Department department { get; set; };
+        public Department department { get; set; }
 
         public Worker()
         {}
