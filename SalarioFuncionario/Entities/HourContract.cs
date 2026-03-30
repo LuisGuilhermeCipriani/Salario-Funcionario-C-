@@ -21,7 +21,7 @@ namespace SalarioFuncionario.Entities
 
         public double TotalValue()
         {
-
+            return ValuePerHour * Hours;
         }
     }
 }
